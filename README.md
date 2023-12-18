@@ -1,8 +1,9 @@
+Карточки
+
 [![Build status](https://ci.appveyor.com/api/projects/status/drfceu9f3s5gcblp/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ra16-homeworks-composition-cards-and-collapse/branch/main)
 
 deployment: https://marinaustinovich.github.io/ra16-homeworks-composition-cards_and_collapse/
 
-Карточки
 ===
 
 Вам необходимо реализовать компонент карточек, позволяющий использовать себя следующим образом:
@@ -11,18 +12,18 @@ deployment: https://marinaustinovich.github.io/ra16-homeworks-composition-cards_
 
 ![](./public/card2.png)
 
-В качестве CSS вы можете использовать Bootstrap, а подглядеть генерируемую разметку можете на [странице]( https://getbootstrap.com/docs/4.3/components/card/).
+В качестве CSS вы можете использовать Bootstrap, а подглядеть генерируемую разметку можете на [странице](https://getbootstrap.com/docs/4.3/components/card/).
 
 Подсказка: используйте для этого `props.children` и `props` для отображения картинки.
 
-Collapse
-===
+# Collapse
 
 Вам поручено реализовать аналог компонента [Collapse](https://getbootstrap.com/docs/5.0/components/collapse/#example).
 
 Используйте следующие props:
-* `collapsedLabel`,
-* `expandedLabel`.
+
+- `collapsedLabel`,
+- `expandedLabel`.
 
 Если значения этих `props` не переданы, то они принимают значения по умолчанию `Развернуть` (для `collapsedLabel`) и `Свернуть` (для `expandedLabel`).
 
