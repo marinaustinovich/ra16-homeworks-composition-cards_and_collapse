@@ -1,9 +1,10 @@
-Карточки
 
 [![Build status](https://ci.appveyor.com/api/projects/status/drfceu9f3s5gcblp/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ra16-homeworks-composition-cards-and-collapse/branch/main)
 
 deployment: https://marinaustinovich.github.io/ra16-homeworks-composition-cards_and_collapse/
 
+
+Карточки
 ===
 
 Вам необходимо реализовать компонент карточек, позволяющий использовать себя следующим образом:
